@@ -39,7 +39,7 @@ const sidebars = {
       label: 'Basic Sewing',
       collapsible: true,
       collapsed: true,
-      items: ['sewing-basics/straight-stitch'],
+      items: ['sewing-basics/stitches'],
     }
 
   ],
