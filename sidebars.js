@@ -40,6 +40,14 @@ const sidebars = {
       collapsible: true,
       collapsed: true,
       items: ['sewing-basics/straight-stitch'],
+    },
+    {
+      type: 'category',
+      
+      label: 'Textiles',
+      collapsible: true,
+      collapsed: true,
+      items: ['textiles/sources-types', 'textiles/wool'],
     }
 
   ],
